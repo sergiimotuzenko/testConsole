@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class data
     {
-        static void Main(string[] args)
-        {
-            //changes1
-            //change 2
-        }
+        //add data
     }
 }
